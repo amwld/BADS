@@ -1,7 +1,7 @@
 ---
 title: "Business Analytics and Data Science"
 subtitle: "Assignment"
-author: "Amanda Maiwald - 599665 - maiwald@posteo.de" 
+author: "Amanda Maiwald" 
 date: "14/03/2019"
 output:
   pdf_document:
